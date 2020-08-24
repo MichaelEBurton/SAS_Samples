@@ -2,7 +2,19 @@
 |* Authors: Joshua Buck, Michael Burton, Steven Chester      *|
 |* Last Edited: 4/10/2019                                    *|
 |* Purpose: This code is for Mini-Project 3 in ST446         *|
+|*          Furthermore, this project's goal is to create a  *|
+|*          a macro to produce an animation used to explore  *|
+|*          the properties of sampling distributions.        *|
+|*                                                           *|
+|* Program Requirements:                                     *|
+|*   1.Generate the data under user-specified conditions     *|
+|*   2. Compute all necessary values                         *|
+|*   3. Create the final animation                           *|
+|*   4. If user-provieded values are invalid, your macro     *|
+|*      should also produce useful messages to help the user *|
+|*      debug the issue.                                     *|
 \*===========================================================*/
+
 
 /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++*\
 |* 1. Set path to Ldrive                                   *|

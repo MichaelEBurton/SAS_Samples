@@ -2,6 +2,13 @@
 |* Authors: Michael Burton, Kevin Mathew, Michael Snow       *|
 |* Last Edited: 3/01/2019                                    *|
 |* Purpose: This code is for Mini-Project 2 in ST446         *|
+|*                                                           *|
+|* Program Requirements:                                     *|
+|*   1. Read raw data file into SAS, cleaning missing values.*|
+|*   2. Reshape Data and join with demographic data.         *|
+|*   3. Create a custom report using proc report.            *|
+|*   4. Create a custom graph using proc template.           *|
+|*   5. Demonstrate datasets are equal using proc compare.   *|
 \*===========================================================*/
 
 /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++*\

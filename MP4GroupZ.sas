@@ -2,6 +2,14 @@
 |* Authors: Michael Burton, Cameron Evangelista, Jason Thompson *|
 |* Last Edited: 4/25/2019                                       *|
 |* Purpose: This code is for Mini-Project 4 in ST446            *|
+|*  Furthermore, the goal of this project is to utilize the     *|
+|*  HTTP Procedure to scrape data from a website of your        *|
+|*  choice, in this case a website on Pokemon(fictional video   *|
+|*  game creatures). After scraping the data the program will   *|
+|*  wrangle it into a form suitable for an analysis.            *|
+|*  In an effort to learn more about quantile regression the    *|
+|*  the analysis will be a quantile regression analysis.        *|
+|*                                                              *|
 \*==============================================================*/
 
 /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++*\

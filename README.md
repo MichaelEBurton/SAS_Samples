@@ -5,6 +5,8 @@ This repository hosts the project files (SAS programs, and requirements files) f
 ## File Descriptions
 The files in this repository are either the project file (MP*.sas) containing the completed SAS code and the corresponding program requirements (MP*.pdf).
 
+**\*** Some of these projects may still be in for the Intermediate SAS programming course, so they have been moved to a private repository. If you are a prospective employer and would like to see any of the code, please feel free to email me and I will get back to you.
+
 + MP1GroupG.sas
   - This project focused on simulating data for various combinations of probability distributions, replications, and sample size. Upon generating the data we calculated the summary statistic specified by the user and then plotted the data using Proc sgplot and by group processing.
 + MP2GroupB.sas

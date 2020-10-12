@@ -27,6 +27,8 @@ Procedures and Facilities covered
   + Proc Freq
   + Proc Report
   + Proc Sgplot
+  + Proc Format
+  + Proc Contents
 
 Description:
   >Detailed discussion of the program data vector and data handling techniques that are required to apply statistical methods. Topics are based on the current content of the Base SAS Certification Exam and typically include: importing, validating, and exporting of data files; manipulating, subsetting, and grouping data; merging and appending data sets; basic detail and summary reporting; and code debugging. Additional topics with practical applications, such as graphics and advanced reporting, may also be introduced. Statistical methods for analyzing data are not covered in this course. Regular access to a computer for homework and class exercises is required. Previous exposure to SAS is expected.
@@ -35,9 +37,7 @@ Description:
 Procedures and Facilities covered
   + SAS/Macros
   + SAS/SQL
-  + Proc Format
   + Proc FCMP
-  + Proc Contents
   + Proc Template
   + Proc Datasets
   + Proc Compare
